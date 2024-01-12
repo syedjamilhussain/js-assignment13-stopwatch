@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+    text-transform: capitalize;
+    background: #000;
+    text-align: center;
+    
+}
+.h1
+{
+    /* background: white; */
+    color: white;    
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 50px;
+}
+.watch {
+    /* background: white; */
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    text-shadow: 1px 2px 2px white;
+    font-size: 30px;
+}
+
+.input {
+margin: 0% auto;
+width: 400px;
+height: 50px;
+background: #61121252;
+padding: 15px;
+box-shadow: 2px 2px white;
+font-size: 50px;
+color: white;
+margin-bottom: 30px;
+/* margin-left: 0%auto; */
+}
+.buttons{
+  margin-left: 37%;
+  display: flex;
+  margin-top: 35px;
+  justify-content: space-around;
+  width: 350px;
+}
+ .start {
+    color:white;
+    background: #000;
+    width: 80px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    box-shadow: 2px 2px white;
+    
+
+ }
+ .stop {
+    color:white;
+    background: #000;
+    width: 80px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    box-shadow: 2px 2px white;
+    margin: 5px;
+ }
+ .reset {
+    color:white;
+    background: #000;
+    width: 80px;
+    padding: 12px;
+    font-size: 25px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    box-shadow: 2px 2px  white;
+    
+ }
+
+ 
